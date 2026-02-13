@@ -21,7 +21,7 @@ Built with **HTML** and **CSS**, featuring a clean layout, background hero secti
 - **CSS3 (Flexbox)**
 - 
 ## 📸 Preview
-![Landing Page Screenshot](https://via.placeholder.com/800x400?text=Newsletter+Landing+Page)
+!["C:\Users\ketha\OneDrive\Pictures\Screenshots\Landing page screenshot.png")
 
 ## ⚙️ Setup Instructions
    Clone the repository:
