@@ -21,7 +21,7 @@ Built with **HTML** and **CSS**, featuring a clean layout, background hero secti
 - **CSS3 (Flexbox)**
 - 
 ## 📸 Preview
-![Landing Page Screenshot](images/landing-page.png)
+![Landing Page Screenshot](images/Landing page screenshot.png)
 
 ## ⚙️ Setup Instructions
    Clone the repository:
