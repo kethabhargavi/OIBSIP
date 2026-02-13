@@ -21,7 +21,7 @@ Built with **HTML** and **CSS**, featuring a clean layout, background hero secti
 - **CSS3 (Flexbox)**
 - 
 ## 📸 Preview
-!["C:\Users\ketha\OneDrive\Pictures\Screenshots\Landing page screenshot.png")
+![Landing Page Screenshot](images/landing-page.png)
 
 ## ⚙️ Setup Instructions
    Clone the repository:
